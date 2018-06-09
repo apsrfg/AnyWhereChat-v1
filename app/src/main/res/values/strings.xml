@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AnyWhere Chat</string>
+    <string name="Profile">Profile</string>
+    <string name="Chats">Chats</string>
+    <string name="Online">Online</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_navigation">AnyWhere Chat</string>
+    <string name="none_paired">Nenhum dispositivo pareado</string>
+    <string name="none_found">Nenhum dispositivo encontrado</string>
+</resources>
